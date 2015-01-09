@@ -1,6 +1,6 @@
 <?php
 
   $message = "Hello World";
-  printf("%s", message);
+  printf("%s", $message);
 
 ?>
